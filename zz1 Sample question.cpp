@@ -9,7 +9,7 @@
 /*
    Question- Given a positive integer denoting num, do the following:
    If 0<num<=9, then print the lowercase English word corresponding to the number (e.g., one for , two for , etc.).
-   If n>9 print Greater than 9.
+   If num>9 print Greater than 9.
 */
 
 
