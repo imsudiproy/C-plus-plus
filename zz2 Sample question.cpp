@@ -20,7 +20,7 @@ int main()
 {
 int a, b;
 string num[10] = {"Greater than 9", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
-//cout<<"Enter a number: ";
+cout<<"Enter two numbers: ";
 cin >> a>>b;
 for(int i=a; i<=b; i++){
 if(i>9){
