@@ -1,11 +1,13 @@
+/*
+  Topic- Introduction to classes and objects
+  Program by- Sudip Roy
+  Company- SR Group
+*/
+
 #include <iostream>
 #include <sstream>
 using namespace std;
 
-/*
-Enter code for class Student here.
-Read statement for specification.
-*/
 class Student{
     int age;
     int standard;
